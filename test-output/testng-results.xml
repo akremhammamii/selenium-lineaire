@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T16:38:50 CET" name="Default suite" finished-at="2024-05-01T16:38:56 CET" duration-ms="5998">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T16:38:50 CET" name="Default test" finished-at="2024-05-01T16:38:56 CET" duration-ms="5998">
+      <class name="TestCases.FileUpLoadDemo2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.FileUpLoadDemo2@f78a47e]" started-at="2024-05-01T16:38:50 CET" name="setup" finished-at="2024-05-01T16:38:53 CET" duration-ms="2220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fileUploadTest()[pri:0, instance:TestCases.FileUpLoadDemo2@f78a47e]" started-at="2024-05-01T16:38:53 CET" name="fileUploadTest" finished-at="2024-05-01T16:38:56 CET" duration-ms="3565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploadTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.FileUpLoadDemo2@f78a47e]" started-at="2024-05-01T16:38:56 CET" name="tearDown" finished-at="2024-05-01T16:38:56 CET" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.FileUpLoadDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
